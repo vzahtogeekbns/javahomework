@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e1b9ba-1a85-4e67-b94c-11970d260814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/git/java1/.idea/hotswap_agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git/java1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
@@ -41,10 +44,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.hotswap.agent.plugin.settings.HotSwapAgentPluginSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jxr</selection>
@@ -58,11 +62,10 @@
       </method>
     </configuration>
     <configuration name="Lesson1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Videos/java/jdk-11-hotswap/jdk-11-hotswap" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_231" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="Lesson1" />
-      <module name="Lesson1" />
+      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,15 +100,20 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/git/java1" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="359" y="12" key="#HelloJava" timestamp="1579410582609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="359" y="12" key="#HelloJava/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579410582609" />
-    <state x="359" y="12" key="#Lesson1" timestamp="1579414596014">
+    <state x="359" y="0" key="#Lesson1" timestamp="1579446166383">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="359" y="12" key="#Lesson1/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579414596014" />
+    <state x="359" y="0" key="#Lesson1/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579446166383" />
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579420572070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -114,10 +122,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="280" y="103" key="EnvironmentVariablesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579419985975" />
-    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1579422605703">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1579446140773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579422605703" />
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579446140773" />
     <state width="621" height="224" key="GridCell.Tab.0.bottom" timestamp="1579442567254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -150,14 +158,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="621" height="224" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579442567254" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1579422722132">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1579446053606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579422722132" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579446053606" />
     <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1579410349988">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579410349988" />
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579446342281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579446342281" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1579419478073">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
